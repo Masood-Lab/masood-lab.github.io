@@ -1,1 +1,1 @@
-Sitemap: https://masoodlab.com/sitemap.xml
+Sitemap: https://github.com/Masood-Lab/masood-lab.github.io/sitemap.xml
